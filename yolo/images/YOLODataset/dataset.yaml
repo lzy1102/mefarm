@@ -1,0 +1,6 @@
+train: ..\images\YOLODataset/images/train/
+val: ..\images\YOLODataset/images/val/
+
+nc: 1
+
+names: ['weasel']
